@@ -2,7 +2,7 @@
 
 # 📇 dex-api<sup>[α](#status-α)</sup>
 
-Java wrapper for the [Dex](https://github.com/dexidp/dex)'s [gRPC](https://grpc.io/) API.
+Java wrapper for the [Dex](https://github.com/dexidp/dex) OIDC provider [gRPC](https://grpc.io/) API.
 
 ## Gradle Dependency
 
