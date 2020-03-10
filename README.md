@@ -1,43 +1,14 @@
-[![](https://jitpack.io/v/dev.reimer/dex-api.svg)](https://jitpack.io/#dev.reimer/dex-api)
+[![JitPack](https://jitpack.io/v/dev.reimer/dex-cli.svg)](https://jitpack.io/#dev.reimer/dex-cli)
 
-# 📇 dex-api<sup>[α](#status-α)</sup>
+# 📇 dex-cli<sup>[α](#status-α)</sup>
 
-Java wrapper for the [Dex](https://github.com/dexidp/dex) OIDC provider [gRPC](https://grpc.io/) API.
+Go wrapper for the [Dex](https://github.com/dexidp/dex) OIDC provider [gRPC](https://grpc.io/) API.
 
-## Gradle Dependency
+## Installation
 
-This library is available on [**jitpack.io**](https://jitpack.io/#dev.reimer/dex-api).  
-Add this in your `build.gradle.kts` or `build.gradle` file:
+1. `git clone `
 
-<details open><summary>Kotlin</summary>
-
-```kotlin
-repositories {
-    maven("https://jitpack.io")
-}
-
-dependencies {
-    implementation("dev.reimer:dex-api:<version>")
-}
-```
-
-</details>
-
-<details><summary>Groovy</summary>
-
-```groovy
-repositories {
-    maven { url 'https://jitpack.io' }
-}
-
-dependencies {
-    implementation 'dev.reimer:dex-api:<version>'
-}
-```
-
-</details>
-
-## Status α
+## Status α     
 
 ⚠️ _Warning:_ This project is in an experimental alpha stage:
 - The API may be changed at any time without further notice.
