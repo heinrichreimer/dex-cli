@@ -14,7 +14,7 @@ func main() {
 	}
 	app := &cli.App{
 		Name:  "dex-cli",
-		Usage: "Manage dex OIDC provider.",
+		Usage: "Manage Dex OIDC provider.",
 		Flags: []cli.Flag{
 			&cli.StringFlag{
 				Name:     "target",
