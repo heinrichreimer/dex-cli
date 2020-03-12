@@ -47,10 +47,9 @@ func main() {
 								Required: true,
 							},
 							&cli.StringSliceFlag{
-								Name:     "trusted-peers",
-								Usage:    "Trusted `PEERS…`",
-								Aliases:  []string{"t"},
-								Required: true,
+								Name:    "trusted-peers",
+								Usage:   "Trusted `PEERS…`",
+								Aliases: []string{"t"},
 							},
 							&cli.BoolFlag{
 								Name:    "public",
