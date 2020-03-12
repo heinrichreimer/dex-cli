@@ -39,9 +39,10 @@ func (dex Dex) CreateClient(
 	if res.AlreadyExists {
 		return errors.New(fmt.Sprintf("Client '%s' already exists.\n", req.Client.Id))
 	}
-	fmt.Printf("Successfully created client '%s'.", res.Client.Id)
-	fmt.Print("Secret:")
+	fmt.Printf("Successfully created client '%s'.\n", res.Client.Id)
+	fmt.Print("Secret: ")
 	fmt.Print(res.Client.Secret)
+	fmt.Println()
 	return nil
 }
 
