@@ -16,7 +16,7 @@ func (dex Dex) CreateClient(
 	name string,
 	logoUrl string,
 ) error {
-	secret, err := password.Generate(64, 10, 0, false, false)
+	secret, err := password.Generate(64, 10, 0, false, true)
 	if err != nil {
 		return err
 	}
