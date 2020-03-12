@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75b3343c-0d93-471b-af97-28e1de80d8eb" name="Default Changelist" comment="Refactor to use Go">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="75b3343c-0d93-471b-af97-28e1de80d8eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +132,7 @@
       <workItem from="1583859552043" duration="7316000" />
       <workItem from="1583871438850" duration="2348000" />
       <workItem from="1583874102114" duration="18000" />
-      <workItem from="1583874143547" duration="32902000" />
+      <workItem from="1583874143547" duration="33675000" />
     </task>
     <task id="LOCAL-00001" summary="Refactor to use Go">
       <created>1583874193602</created>
@@ -185,7 +183,28 @@
       <option name="project" value="LOCAL" />
       <updated>1584022394703</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Remove Makefile">
+      <created>1584022434968</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584022434968</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update IDE config">
+      <created>1584022447723</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584022447723</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Remove sample Dex config">
+      <created>1584022852952</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584022852952</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +217,10 @@
     <MESSAGE value="Refactor to use Go" />
     <MESSAGE value="Remove api.proto file" />
     <MESSAGE value="Implement CLI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement CLI" />
+    <MESSAGE value="Remove Makefile" />
+    <MESSAGE value="Remove sample Dex config" />
+    <MESSAGE value="Update IDE config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update IDE config" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -228,10 +250,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2606" y="185" key="#go_build_dex-cli.go/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1583862717494" />
-    <state x="2478" y="116" width="784" height="806" key="CommitChangelistDialog2" timestamp="1584022434057">
+    <state x="2478" y="116" width="784" height="806" key="CommitChangelistDialog2" timestamp="1584022859561">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2478" y="116" width="784" height="806" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584022434057" />
+    <state x="2478" y="116" width="784" height="806" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584022859561" />
     <state x="2660" y="278" key="FileChooserDialogImpl" timestamp="1583862739424">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -256,6 +278,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2611" y="234" key="RollbackChangesDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584020072341" />
+    <state x="2472" y="256" key="Vcs.Push.Dialog.v2" timestamp="1584023166670">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="256" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584023166670" />
     <state x="2691" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583873831225">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
