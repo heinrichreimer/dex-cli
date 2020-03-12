@@ -7,7 +7,9 @@ Go wrapper for the [Dex](https://github.com/dexidp/dex) OIDC provider [gRPC](htt
 
 ## Installation
 
-1. `git clone `
+1. `git clone https://github.com/reimersoftware/dex-cli.git`
+2. `cd dex-cli`
+3. `go install`
 
 ## Status α     
 
