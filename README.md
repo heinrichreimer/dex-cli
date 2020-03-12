@@ -1,4 +1,5 @@
-[![JitPack](https://jitpack.io/v/dev.reimer/dex-cli.svg)](https://jitpack.io/#dev.reimer/dex-cli)
+[![Go version](https://img.shields.io/github/go-mod/go-version/reimersoftware/dex-cli?style=flat-square)](https://golang.org/)
+[![Package version](https://img.shields.io/github/v/tag/reimersoftware/dex-cli?style=flat-square)]()
 
 # 📇 dex-cli<sup>[α](#status-α)</sup>
 
